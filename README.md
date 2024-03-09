@@ -1,8 +1,9 @@
 <h1 style="text-align:center;">PREDICTION MODELS FOR CUSTOMER CHURN IN SYRIATEL TELECOMMUNICATIONS COMPANY</h1>
 
 <div style="text-align:center;">
-  <img src="Images/Telcos Business 2.jpg" alt="Telcos Business">
+  <img src="Images/Telcos Business 2.jpg" alt="Telcos Business" width="400" height="300">
 </div>
+
 <h1 style="text-align:center;">OVERVIEW OF THE PROJECT</h1>
 The project endeavors to develop a predictive model for customer churn, with the primary objective of identifying customers who may be inclined to discontinue services. Stakeholders within the telecommunications industry, including marketing and sales teams, customer service departments, and upper management, stand to benefit substantially from the outcomes of the project. The project scope includes the development and evaluation of predictive models with the potential to significantly enhance customer retention and overall profitability of telcos.
 
@@ -40,7 +41,6 @@ were developed.
 
 - The Tuned Random Forest Model achieved an ROC AUC score of 0.9222. Despite being tuned, this model's performance, as measured by the ROC AUC score, is slightly lower than the XGBoost Model but still higher than the Baseline Model and the More-complex Random Forest Model.
 
-![Graph 1](Images/Models ROC curve.png)
 <div style="text-align:center;">
   <img src="Images/Models ROC curve.png" alt="ROC Curves">
 </div>
