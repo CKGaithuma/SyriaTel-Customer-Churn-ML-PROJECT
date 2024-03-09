@@ -41,6 +41,9 @@ were developed.
 - The Tuned Random Forest Model achieved an ROC AUC score of 0.9222. Despite being tuned, this model's performance, as measured by the ROC AUC score, is slightly lower than the XGBoost Model but still higher than the Baseline Model and the More-complex Random Forest Model.
 
 ![Graph 1](Images/Models ROC curve.png)
+<div style="text-align:center;">
+  <img src="Images/Models ROC curve.png" alt="ROC Curves">
+</div>
 
 <h1 style="text-align:center;">CONCLUSION</h1>
 
