@@ -1,7 +1,7 @@
 <h1 style="text-align:center;">PREDICTION MODELS FOR CUSTOMER CHURN IN SYRIATEL TELECOMMUNICATIONS COMPANY</h1>
 
 <div style="text-align:center;">
-  <img src="Images/Telcos Business 2.jpg" alt="Telcos Business" width="400" height="300">
+  <img src="Images/Telcos Business 3.jpg" alt="Telcos Business" width="1000" height="900">
 </div>
 
 <h1 style="text-align:center;">OVERVIEW OF THE PROJECT</h1>
