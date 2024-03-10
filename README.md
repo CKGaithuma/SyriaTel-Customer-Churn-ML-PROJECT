@@ -20,6 +20,30 @@ Specific Objectives:
 <h1 style="text-align:center;">DATA UNDERSTANDING</h1>
 The dataset originates from SyriaTel Telecommunication company and was obtained from Kaggle (link: https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset/data). It comprises 21 columns and 3333 rows. The columns have various attributes related to customer demographics, service usage, and churn behavior. The rows correspond to a recorded customer. The dataset encompasses both continuous and categorical variables. The target variable identified is "churn," with the remaining variables serving as predictors, excluding "state" and "phone number".
 
+Here is a breakdown of the columns:
+
+1. State (string): Two-letter abbreviation of the U.S. state where the customer resides.
+2. Account Length (integer): Number of days the customer has been with the telecom company.
+3. Area Code (integer): Three-digit area code of the customer's phone number.
+4. Phone Number (string): Customer's phone number.
+5. International Plan (string): Whether the customer has an international calling plan (yes/no).
+6. Voice Mail Plan (string): Whether the customer has a voice mail plan (yes/no).
+7. Number of Vmail Messages (integer): Number of voice mail messages.
+8. Total Day Minutes (float): Total number of minutes the customer used during the day.
+9. Total Day Calls (integer): Total number of calls the customer made during the day.
+10. Total Day Charge (float): Total charge for day calls.
+11. Total Eve Minutes (float): Total number of minutes the customer used during the evening.
+12. Total Eve Calls (integer): Total number of calls the customer made during the evening.
+13. Total Eve Charge (float): Total charge for evening calls.
+14. Total Night Minutes (float): Total number of minutes the customer used during the night.
+15. Total Night Calls (integer): Total number of calls the customer made during the night.
+16. Total Night Charge (float): Total charge for night calls.
+17. Total Intl Minutes (float): Total number of international minutes the customer used.
+18. Total Intl Calls (integer): Total number of international calls the customer made.
+19. Total Intl Charge (float): Total charge for international calls.
+20. Customer Service Calls (integer): Number of customer service calls the customer made.
+21. Churn (string): Whether the customer churned (i.e., left the company) (True/False).
+
 <h1 style="text-align:center;">DATA PREPARATION</h1>
 This analysis employs Exploratory Data Analysis on the SyriaTel dataset to check for patterns or insights useful for predicting churn. Some steps of EDA include Data Visualization and Correlation Analysis.
 
