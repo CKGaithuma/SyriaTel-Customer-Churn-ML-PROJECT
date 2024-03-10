@@ -82,6 +82,6 @@ SyriaTel faces a significant challenge with customer churn, which poses both fin
 
 The datasets used can be found [here](Data)
 
-The notebook can be found [here](SyriaTel_Customer_Churn_EDA.ipynb)
+The notebook can be found [here](SyriaTel Customer Churn Prediction Model.ipynb)
 
 The presentation can be found [here](<SyriaTel Customer Churn Presentation.pdf>)
