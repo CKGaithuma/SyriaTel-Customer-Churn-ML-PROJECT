@@ -10,6 +10,12 @@ The project endeavors to develop a predictive model for customer churn, with the
 <h1 style="text-align:center;">BUSINESS UNDERSTANDING</h1>
 SyriaTel, a leading telecommunications firm, grapples with a customer 'churn' problem. The churn problem poses revenue and reputation risks to the company. To address this, SyriaTel seeks predictive insights and a reliable classifier model to anticipate customer churn effectively.
 
+Specific Objectives:
+
+- To develop a binary classification model to predict whether a client will imminently terminate their relationship with SyriaTel.
+- Identify the factors influencing customer churn.
+- Select the optimal model for forecasting customer churn.
+
 <h1 style="text-align:center;">DATA UNDERSTANDING</h1>
 The dataset originates from SyriaTel Telecommunication company and was obtained from Kaggle (link: https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset/data). It comprises 21 columns and 3333 rows. The columns have various attributes related to customer demographics, service usage, and churn behavior. The rows correspond to a recorded customer. The dataset encompasses both continuous and categorical variables. The target variable identified is "churn," with the remaining variables serving as predictors, excluding "state" and "phone number".
 
@@ -62,3 +68,11 @@ SyriaTel faces a significant challenge with customer churn, which poses both fin
 - **Conduct deeper analysis: Explore additional data sources and factors influencing churn, such as customer demographics or usage patterns, to enhance predictive accuracy and identify new insights.**
 
 - **Address model limitations: Address potential biases or limitations in the dataset, such as data imbalance or missing features , through data preprocessing techniques and model refinement to improve predictive performance and reliability.**
+
+## Repository Guide
+
+The datasets used can be found [here](Data)
+
+The notebook can be found [here](SyriaTel_Customer_Churn_EDA.ipynb)
+
+The presentation can be found [here](<SyriaTel Customer Churn Presentation.pdf>)
