@@ -1,7 +1,7 @@
 <h1 style="text-align:center;">PREDICTION MODELS FOR CUSTOMER CHURN IN SYRIATEL TELECOMMUNICATIONS COMPANY</h1>
 
 <div style="text-align:center;">
-  <img src="Images/Telcos Business Infrastructure.jpg" alt="Telcos Business" width="1000" height="900">
+  <img src="Images/Telcos Business Infrastructure.jpg" alt="Telcos Business" width="600" height="500">
 </div>
 
 <h1 style="text-align:center;">OVERVIEW OF THE PROJECT</h1>
@@ -9,6 +9,7 @@ The project endeavors to develop a predictive model for customer churn, with the
 
 <h1 style="text-align:center;">BUSINESS UNDERSTANDING</h1>
 SyriaTel, a leading telecommunications firm, grapples with a customer 'churn' problem. The churn problem poses revenue and reputation risks to the company. To address this, SyriaTel seeks predictive insights and a reliable classifier model to anticipate customer churn effectively.
+
 
 Specific Objectives:
 
@@ -25,7 +26,7 @@ This analysis employs Exploratory Data Analysis on the SyriaTel dataset to check
 - Data Visualization: Visualizations such as histograms and bar charts are useful to be able to understand the distribution and relationships between different variables in the SyriaTel dataset.
 
 <div style="text-align:center;">
-  <img src="Images/Distribution of features in SyriaTel Data.png" alt="Distribution of Features">
+  <img src="Images/Distribution of Churn in SyriaTel.png" alt="Distribution of Churn" width="500" height="400">
 </div>
 
 - Correlation Analysis was used as a Feature Importance/Selection techinique to select the most influential features in predicting 'churn'.
@@ -33,7 +34,7 @@ This analysis employs Exploratory Data Analysis on the SyriaTel dataset to check
 - Data Preprocessing was employed to create Graphs and Visualization used to analyse data to be used for Modeling. 
 
 <div style="text-align:center;">
-  <img src="Images/Distribution of Churn in SyriaTel.png" alt="Distribution of Churn">
+  <img src="Images/Distribution of features in SyriaTel Data.png" alt="Distribution of Features" width="500" height="400">
 </div>
 
 <h1 style="text-align:center;">MODELING</h1>
@@ -56,7 +57,7 @@ were developed.
 - The Tuned Random Forest Model achieved an ROC AUC score of 0.9222. Despite being tuned, this model's performance, as measured by the ROC AUC score, is slightly lower than the XGBoost Model but still higher than the Baseline Model and the More-complex Random Forest Model.
 
 <div style="text-align:center;">
-  <img src="Images/Models ROC curve.png" alt="ROC Curves">
+  <img src="Images/Models ROC curve.png" alt="ROC Curves" width="500" height="400">
 </div>
 
 <h1 style="text-align:center;">CONCLUSION</h1>
