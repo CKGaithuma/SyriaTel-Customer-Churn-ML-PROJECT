@@ -1,7 +1,7 @@
 <h1 style="text-align:center;">PREDICTION MODELS FOR CUSTOMER CHURN IN SYRIATEL TELECOMMUNICATIONS COMPANY</h1>
 
 <div style="text-align:center;">
-  <img src="Images/Telcos Business Infrastructure.jpg" alt="Telcos Business" width="600" height="500">
+  <img src="Images/Telcos Business Infrastructure.jpg" alt="Telcos Business">
 </div>
 
 <h1 style="text-align:center;">OVERVIEW OF THE PROJECT</h1>
@@ -34,7 +34,7 @@ This analysis employs Exploratory Data Analysis on the SyriaTel dataset to check
 - Data Preprocessing was employed to create Graphs and Visualization used to analyse data to be used for Modeling. 
 
 <div style="text-align:center;">
-  <img src="Images/Distribution of features in SyriaTel Data.png" alt="Distribution of Features" width="500" height="400">
+  <img src="Images/Distribution of features in SyriaTel Data.png" alt="Distribution of Features">
 </div>
 
 <h1 style="text-align:center;">MODELING</h1>
@@ -57,7 +57,7 @@ were developed.
 - The Tuned Random Forest Model achieved an ROC AUC score of 0.9222. Despite being tuned, this model's performance, as measured by the ROC AUC score, is slightly lower than the XGBoost Model but still higher than the Baseline Model and the More-complex Random Forest Model.
 
 <div style="text-align:center;">
-  <img src="Images/Models ROC curve.png" alt="ROC Curves" width="500" height="400">
+  <img src="Images/Models ROC curve.png" alt="ROC Curves">
 </div>
 
 <h1 style="text-align:center;">CONCLUSION</h1>
