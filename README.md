@@ -24,9 +24,17 @@ This analysis employs Exploratory Data Analysis on the SyriaTel dataset to check
 
 - Data Visualization: Visualizations such as histograms and bar charts are useful to be able to understand the distribution and relationships between different variables in the SyriaTel dataset.
 
+<div style="text-align:center;">
+  <img src="Images/Distribution of features in SyriaTel Data.png" alt="Distribution of Features">
+</div>
+
 - Correlation Analysis was used as a Feature Importance/Selection techinique to select the most influential features in predicting 'churn'.
 
 - Data Preprocessing was employed to create Graphs and Visualization used to analyse data to be used for Modeling. 
+
+<div style="text-align:center;">
+  <img src="Images/Distribution of Churn in SyriaTel.png" alt="Distribution of Churn">
+</div>
 
 <h1 style="text-align:center;">MODELING</h1>
 
